@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <>
     <Head>
-      <title>Acorn Hive</title>
+      <title>Acorn Hive Demo </title>
     </Head>
       <div>
         <h4></h4>
